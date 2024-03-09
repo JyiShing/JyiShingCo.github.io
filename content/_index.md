@@ -1,7 +1,7 @@
 ---
-title: "精鑽股份有限公司"
+title: "佶興科技股份有限公司"
 
-description: "磁控濺鍍源的專業廠商"
+description: "磁控濺鍍源廠商"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
